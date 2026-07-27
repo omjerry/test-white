@@ -29,5 +29,3 @@
 - Output Directory：`docs/.vitepress/dist`
 - Node.js：22
 - 生产分支：`main`
-
-在 Vercel 项目设置中添加 `research.<你的域名>`，并在域名服务商处按 Vercel 提示配置 DNS 记录。请只发布可公开内容。
