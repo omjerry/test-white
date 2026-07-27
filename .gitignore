@@ -1,0 +1,9 @@
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+docs/.obsidian/workspace.json
+docs/.obsidian/workspaces.json
+docs/private/
+.vercel/
+.DS_Store
+Thumbs.db
